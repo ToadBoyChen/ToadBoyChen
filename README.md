@@ -8,7 +8,7 @@ I enjoy creating algorithms and have had fun creating cool UIs. I love sports li
 
 ## Skills 🤹
 
-- **Programming Languages:** Python, Java, C#, HTML, CSS, JS, SQL
+- **Programming Languages:** Python, Java, C#
 - **Technologies:** Web development, Bootstrap, Django, OpenSSL, Wireshark
 - **Interests:** Cyber security, Full stack, Software Development
 
