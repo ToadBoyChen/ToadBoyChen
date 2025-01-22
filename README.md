@@ -1,14 +1,14 @@
 # Toby Chen 👋
 
-Welcome to my Github page! Currently a student at Queen Marys University of London studying Mathematics. Always coding and building up my portfolio.
+Welcome to my page! Currently a student at Queen Marys University of London studying Mathematics. Always coding and building up my portfolio.
 
 ## About Me 🙋
 
-I enjoy creating algorithms and have had fun creating cool UIs. I love sports like Muay Thai and Rugby, and i also love music and playing guitar.
+I enjoy creating algorithms and have had fun creating cool UIs. I love sports like Muay Thai and Rugby and am aiming to compete at a higher level. 
 
 ## Skills 🤹
 
-- **Programming Languages:** Python, Java, C#
+- **Programming Languages:** Python, Java, C#, Web-Dev, C++, R
 - **Technologies:** Web development, Bootstrap, Django, OpenSSL, Wireshark
 - **Interests:** Cyber security, Full stack, Software Development
 
@@ -27,4 +27,4 @@ I enjoy creating algorithms and have had fun creating cool UIs. I love sports li
 
 - National Kickboxer
 - Enjoy Pure Mathematics
-- Okay (?) at Chess
+- Play Chess
