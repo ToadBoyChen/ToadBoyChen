@@ -19,7 +19,6 @@
       <h1 class="text-4xl font-bold mb-2">Toby Chen</h1>
       <p class="text-lg text-gray-400">Mathematics Student at Queen Mary University of London</p>
     </header>
-
     <!-- About Me -->
     <section class="mb-12">
       <h2 class="text-2xl font-semibold mb-4">About Me</h2>
@@ -27,7 +26,6 @@
         I enjoy creating algorithms and developing intuitive user interfaces. Passionate about sports like Muay Thai and Rugby, I'm training to compete at a higher level.
       </p>
     </section>
-
     <!-- Skills -->
     <section class="mb-12">
       <h2 class="text-2xl font-semibold mb-4">Skills</h2>
@@ -57,7 +55,6 @@
         </div>
       </div>
     </section>
-
     <!-- Projects -->
     <section class="mb-12">
       <h2 class="text-2xl font-semibold mb-4">Projects</h2>
@@ -76,7 +73,6 @@
         </div>
       </div>
     </section>
-
     <!-- Contact -->
     <section class="mb-12">
       <h2 class="text-2xl font-semibold mb-4">Get in Touch</h2>
@@ -86,7 +82,6 @@
         <li>Portfolio: <a href="https://toadboychen.github.io" target="_blank" class="text-blue-400 hover:underline">toadboychen.github.io</a></li>
       </ul>
     </section>
-
     <!-- Fun Facts -->
     <section>
       <h2 class="text-2xl font-semibold mb-4">Fun Facts</h2>
