@@ -7,14 +7,14 @@
 </head>
 <body class="bg-light text-dark">
     <div class="container mt-5">
-        <h1 class="mb-4"><span class=h1>🤩</span> Toby Chen</h1>
+        <h2 class="mb-4"><span class=h1>🤩</span> Toby Chen</h2>
         <p>Welcome to my page! I am currently a student at Queen Mary University of London studying Mathematics. I am always coding and building my portfolio.</p>
         <section class="mt-5">
-            <h2>About Me</h2>
+            <h3><span class=h1>🙋‍♂️</span> About Me</h3>
             <p>I enjoy creating algorithms and developing intuitive user interfaces. I am passionate about sports such as Muay Thai and Rugby, and I am training to compete at a higher level.</p>
         </section>
         <section class="mt-5">
-            <h2>Skills</h2>
+            <h3><span class=h1>👨‍💻</span> Skills</h3>
             <ul>
                 <li><strong>Programming Languages:</strong> Python, Java, C#, Web Development, C++, R</li>
                 <li><strong>Technologies:</strong> Web Development, Bootstrap, Django, OpenSSL, Wireshark</li>
@@ -22,14 +22,14 @@
             </ul>
         </section>
         <section class="mt-5">
-            <h2>Projects</h2>
+            <h3><span class=h1>💻</span>Projects</h3>
             <ul>
                 <li><a href="https://github.com/ToadBoyChen/Trader" target="_blank">Python Trader</a>: Python-based CLI trading algorithm.</li>
                 <li><a href="https://github.com/ToadBoyChen/ToadBoyChen.github.io" target="_blank">Website</a>: My personal website.</li>
             </ul>
         </section>
         <section class="mt-5">
-            <h2>Get in Touch</h2>
+            <h3><span class=h1>📧</span>Get in Touch</h3>
             <ul>
                 <li><strong>Email:</strong> <a href="mailto:toby.chen1337@outlook.com">toby.chen1337@outlook.com</a></li>
                 <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/toby-chen-167519298/" target="_blank">LinkedIn Profile</a></li>
@@ -37,7 +37,7 @@
             </ul>
         </section>
         <section class="mt-5 mb-5">
-            <h2>Fun Facts</h2>
+            <h3><span class=h1>🥊</span>Fun Facts</h3>
             <ul>
                 <li>National Kickboxer</li>
                 <li>Enjoy Pure Mathematics</li>
