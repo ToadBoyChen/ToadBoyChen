@@ -7,7 +7,7 @@
 </head>
 <body class="bg-light text-dark">
     <div class="container mt-5">
-        <h1 class="mb-4">Toby Chen</h1>
+        <h1 class="mb-4"><span class=h1>🤩</span> Toby Chen</h1>
         <p>Welcome to my page! I am currently a student at Queen Mary University of London studying Mathematics. I am always coding and building my portfolio.</p>
         <section class="mt-5">
             <h2>About Me</h2>
