@@ -1,30 +1,50 @@
-# Toby Chen 👋
-
-Welcome to my page! Currently a student at Queen Marys University of London studying Mathematics. Always coding and building up my portfolio.
-
-## About Me 🙋
-
-I enjoy creating algorithms and have had fun creating cool UIs. I love sports like Muay Thai and Rugby and am aiming to compete at a higher level. 
-
-## Skills 🤹
-
-- **Programming Languages:** Python, Java, C#, Web-Dev, C++, R
-- **Technologies:** Web development, Bootstrap, Django, OpenSSL, Wireshark
-- **Interests:** Cyber security, Full stack, Software Development
-
-## Projects 🚧
-
-- [Python Trader](https://github.com/ToadBoyChen/Trader): Python based, CLI trading algorithm.
-- [Website](https://github.com/ToadBoyChen/ToadBoyChen.github.io): My personal Website.
-
-## Get in Touch ✉️
-
-- **Email:** toby.chen1337@outlook.com
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/toby-chen-167519298/)
-- **Portfolio:** [Website](https://toadboychen.github.io)
-
-## Fun Facts 👻
-
-- National Kickboxer
-- Enjoy Pure Mathematics
-- Play Chess
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toby Chen</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light text-dark">
+    <div class="container mt-5">
+        <h1 class="mb-4">Toby Chen</h1>
+        <p>Welcome to my page! I am currently a student at Queen Mary University of London studying Mathematics. I am always coding and building my portfolio.</p>
+        <section class="mt-5">
+            <h2>About Me</h2>
+            <p>I enjoy creating algorithms and developing intuitive user interfaces. I am passionate about sports such as Muay Thai and Rugby, and I am training to compete at a higher level.</p>
+        </section>
+        <section class="mt-5">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>Programming Languages:</strong> Python, Java, C#, Web Development, C++, R</li>
+                <li><strong>Technologies:</strong> Web Development, Bootstrap, Django, OpenSSL, Wireshark</li>
+                <li><strong>Interests:</strong> Cybersecurity, Full-Stack Development, Software Engineering</li>
+            </ul>
+        </section>
+        <section class="mt-5">
+            <h2>Projects</h2>
+            <ul>
+                <li><a href="https://github.com/ToadBoyChen/Trader" target="_blank">Python Trader</a>: Python-based CLI trading algorithm.</li>
+                <li><a href="https://github.com/ToadBoyChen/ToadBoyChen.github.io" target="_blank">Website</a>: My personal website.</li>
+            </ul>
+        </section>
+        <section class="mt-5">
+            <h2>Get in Touch</h2>
+            <ul>
+                <li><strong>Email:</strong> <a href="mailto:toby.chen1337@outlook.com">toby.chen1337@outlook.com</a></li>
+                <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/toby-chen-167519298/" target="_blank">LinkedIn Profile</a></li>
+                <li><strong>Portfolio:</strong> <a href="https://toadboychen.github.io" target="_blank">Personal Website</a></li>
+            </ul>
+        </section>
+        <section class="mt-5 mb-5">
+            <h2>Fun Facts</h2>
+            <ul>
+                <li>National Kickboxer</li>
+                <li>Enjoy Pure Mathematics</li>
+                <li>Play Chess</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
