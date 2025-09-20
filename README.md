@@ -22,13 +22,6 @@ Mathematics Student at **Queen Mary University of London**. Always coding, build
 
 ---
 
-## 📂 Projects
-
-- [💹 Python Trader](https://github.com/ToadBoyChen/Trader) — Python-based CLI trading algorithm.
-- [🌐 Personal Website](https://github.com/ToadBoyChen/ToadBoyChen.github.io) — Portfolio showcasing my work.
-
----
-
 ## 📫 Get in Touch
 
 - 📧 Email: [toby.chen1337@outlook.com](mailto:toby.chen1337@outlook.com)  
