@@ -7,11 +7,19 @@
 <p align="center">
   Mathematics Student at <strong>Queen Mary University of London</strong>
 </p>
-  ---
 
 <p align="center">
   <p align="left">
-    blah blah blah
+    <ul>
+      <li>Python & Data Science</li>
+      <li>Java & OOP</li>
+      <li>JavaScript/TypeScript</li>
+      <li>React & Next.js</li>
+      <li>SQL & Databases</li>
+      <li>Git & GitHub</li>
+      <li>Mathematical Modeling</li>
+      <li>Statistical Analysis</li>
+    </ul>
   </p>
   <p align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=ToadBoyChen&show_icons=true&theme=radical" alt="GitHub Stats" />
