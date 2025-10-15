@@ -1,10 +1,12 @@
-# Toby Chen
+<h1>👋 Hey, I'm <span id="typed"></span></h1>
+<p>Mathematics Student at <strong>Queen Mary University of London</strong></p>
 
-Mathematics Student at **Queen Mary University of London**. Always coding, building projects, and refining skills. 
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: [toby.chen1337@outlook.com](mailto:toby.chen1337@outlook.com)  
-- 🔗 LinkedIn: [linkedin.com/in/toby-chen-167519298](https://www.linkedin.com/in/toby-chen-167519298/)  
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+  new Typed('#typed', {
+    strings: ['Toby Chen', 'a Developer', 'a Problem Solver', 'a Creator'],
+    typeSpeed: 70,
+    backSpeed: 50,
+    loop: true
+  });
+</script>
