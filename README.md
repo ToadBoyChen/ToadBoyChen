@@ -1,7 +1,7 @@
 <h1 align="center">🧮 Hey, I'm <span style="color:#7EE787;">Toby Chen</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=7EE787&center=true&vCenter=true&width=550&lines=Mathematician+%7C+Developer+%7C+Problem+Solver;Exploring+the+Intersection+of+Math+%26+Technology;Building+Things+That+Matter." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=7EE787&center=true&vCenter=true&width=550&lines=Mathematician+and+Problem+Solver;Always+Having+Fun;Building+Things+That+Matter." alt="Typing animation" />
 </p>
 
 ---
