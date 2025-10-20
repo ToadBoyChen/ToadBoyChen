@@ -26,13 +26,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ToadBoyChen&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="49%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToadBoyChen&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%">
-
----
-
-### 🛰️ Connect
-<p>
-  <a href="https://github.com/ToadBoyChen" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="[https://www.linkedin.com/in/toby-chen-167519298/](https://www.linkedin.com/in/toby-chen-167519298/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-</p>
-
-</div>
