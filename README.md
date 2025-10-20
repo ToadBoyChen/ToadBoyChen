@@ -12,8 +12,9 @@
 
 <div align="center">
   
-| 🛠️ Skills & Interests | 📊 GitHub Stats |
-| :--- | :--- |
-| • **Programming:** Python, Java, JavaScript, SQL <br>• **Data Science:** Pandas, NumPy, Matplotlib<br>• **Mathematics:** Topology, Dynamics, Number Theory<br>• **Interests:** Kickboxing, Problem Solving, Chess<br> | <img src="https://github-readme-stats.vercel.app/api?username=ToadBoyChen&show_icons=true&theme=radical" width="100%"> |
+Skills & Interests
+ • **Programming:** Python, Java, JavaScript, SQL <br>• **Data Science:** Pandas, NumPy, Matplotlib<br>• **Mathematics:** Topology, Dynamics, Number Theory<br>• **Interests:** Kickboxing, Problem Solving, Chess<br> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=ToadBoyChen&show_icons=true&theme=radical" width="100%">
 
 </div>
