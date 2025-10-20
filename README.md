@@ -16,8 +16,8 @@
 
 ### ⚡ Tech Stack
 <p>
-  🧠 <b>Languages:</b> Python, Java, JavaScript, SQL <br>
-  📊 <b>Data Science:</b> Pandas, NumPy, Matplotlib <br>
+  🧠 <b>Languages:</b> Python, Java, TypeScript, SQL <br>
+  📊 <b>Data Science:</b> Pandas, NumPy, Matplotlib, R <br>
   🔢 <b>Mathematics:</b> Topology, Dynamics, Number Theory <br>
   💡 <b>Other Interests:</b> Kickboxing 🥊, Chess ♟️, Open Source 💻  
 </p>
@@ -26,12 +26,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ToadBoyChen&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="49%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToadBoyChen&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%">
-
----
-
-### 🧩 Current Focus
-> Exploring **cybersecurity**, **Linux systems**, and the **mathematical structure of computation**.  
-> Always chasing that intersection of rigor and creativity.
 
 ---
 
