@@ -32,7 +32,7 @@
 ### 🛰️ Connect
 <p>
   <a href="https://github.com/ToadBoyChen" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="[https://www.linkedin.com/in/toby-chen](https://www.linkedin.com/in/toby-chen-167519298/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/toby-chen-167519298/](https://www.linkedin.com/in/toby-chen-167519298/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 </div>
