@@ -24,5 +24,5 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ToadBoyChen&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToadBoyChen&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=ToadBoyChen&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToadBoyChen&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="100%">
